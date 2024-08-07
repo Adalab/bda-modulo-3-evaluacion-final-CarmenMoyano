@@ -2,8 +2,8 @@ PRIMERAS EDA
 DF1:
 NO nulos. 💜
 todas las columas son numericas
-    Pasar a formato fecha la columna ano 🎈 No lo vamos a convertir porque tenemos que agrupar por año
-    Pasar a formato fecha la columna mes 🎈 No lo vamos a convertir porque tenemos que agrupar por año
+    Pasar a formato fecha la columna ano 🎈 ✅
+    Pasar a formato fecha la columna mes 🎈 ✅
 No hay valores unicos en ninguna columna 💜
 DATOS desde el 1 del 2017 al 12 del 2018 
 Hay valores duplicados - borrar filas duplicadas 🎈 ✅
