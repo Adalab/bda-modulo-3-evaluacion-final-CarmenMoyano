@@ -13,10 +13,10 @@ Este proyecto tiene como objetivo analizar los datos de clientes de una compañ�
 
 ## Preparación de Datos
 
-### Carga y Limpieza de Datos
+### Exploración y Limpieza de Datos
 
-- **Carga de datos**: Los datos se cargan desde un archivo CSV.
-- **Limpieza de datos**: Se eliminan duplicados y se corrigen errores en los datos (por ejemplo, fechas).
+- **Carga de datos**: Los datos se cargan desde dos archivo CSV.
+- **Analisis y Limpieza de datos**: Se eliminan duplicados y se conviertes tipos en los datos (por ejemplo, fechas).
 
 ### Filtrado de Datos
 
